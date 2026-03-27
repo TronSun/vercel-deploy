@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3:*)",
+      "Bash(npx:*)",
+      "Bash(npm --version)",
+      "Bash(command -v nvm)",
+      "Bash(command -v n)",
+      "Read(//Users/bytedance/.nvm/versions/**)"
+    ]
+  }
+}
